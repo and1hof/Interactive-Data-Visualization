@@ -1,0 +1,6 @@
+# generates fake data for a 'hospital admissions' visualization.
+# visualisation created by Andrew Hoffman. Please do not share
+# without proper attribution to the author.
+
+text_file = open("fake-data.txt", "w") # create output file
+

@@ -1,7 +1,22 @@
-# Interactive-Medical-Records-Visualization
-This is a multidimensional data visualization utilizing d3, dc and crossfilter libaries. Written in javascript and prettified in css. 
+# Interactive-Data-Visualization
+A multidimensional data visualization utilizing D3, DC and CrossFilter libraries. 
 
-This library uses mock (procederally) generated data, so SSN's are all fake.
-I did it to test out JavaScript as a data-visualization, and see how far it could be pushed (e.x. cross-sectioning data in real-time).
+### PREREQUISITES
+A JavaScript-enabled web browser should be all that you need to test this visualization. 
 
-This is responsive (sub 30ms) provided the input data set is under ~1000 or so rows. 
+### GETTING STARTED
+Download the repo as a .zip, unzip it on your desktop and double-click the index.html.
+
+### USAGE
+Attempting to drag the graphs on the screen will result in the data being filtered down in real-time.
+
+### SOURCES
+D3.JS, DC.JS and CrossFilter.JS 
+
+### LEGAL
+This software is provided free of any license, and you are entirely responsible for how you choose to use it.
+
+### SCREENSHOTS
+![no-filters](http://i.imgur.com/At3vfDL.png)
+![filters](http://i.imgur.com/LbGJML8.png)
+
